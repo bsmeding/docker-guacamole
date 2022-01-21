@@ -1,4 +1,10 @@
-**:warning: This project is now archived and no longer supported. Please contact me if you maintain a replacement and would like me to link to your repo.**
+**This project is build on the discontinued image of oznu/guacamole
+
+20220121: 
+* Updated Guacamole to 1.4.0
+* Updated s6 layer to 2.2.0.3
+* Updated Postgresql to 13
+
 
 # Docker Guacamole
 
